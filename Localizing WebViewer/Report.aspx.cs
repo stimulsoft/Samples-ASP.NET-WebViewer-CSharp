@@ -1,27 +1,26 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Web;
-using System.Web.UI;
-using System.Web.UI.WebControls;
-using Stimulsoft.Report;
+﻿using Stimulsoft.Report;
+using System;
 using System.Data;
 
-public partial class Report : System.Web.UI.Page
+namespace Localizing_WebViewer
 {
-    protected void Page_Load(object sender, EventArgs e)
+    public partial class Report : System.Web.UI.Page
     {
-        StiReport report = new StiReport();
+        protected void Page_Load(object sender, EventArgs e)
+        {
+            StiReport report = new StiReport();
 
-        DataSet data = new DataSet();
+            DataSet data = new DataSet();
 
-        report.Load(Server.MapPath(@"Reports\Invoice.mrt"));
-        report.Compile();
+            report.Load(Server.MapPath(@"Reports\Invoice.mrt"));
+            report.Compile();
 
-        data.ReadXml(Server.MapPath(@"Data\Demo.xml"));
+            data.ReadXml(Server.MapPath(@"Data\Demo.xml"));
 
-        report.RegData(data);
-        
-        StiWebViewer1.Localization = String.Format("Localization/{0}.xml", (string)Session["lang"]);
-        StiWebViewer1.Report = report;
+            report.RegData(data);
+
+            StiWebViewer1.Localization = String.Format("Localization/{0}.xml", (string)Session["lang"]);
+            StiWebViewer1.Report = report;
+        }
     }
 }
