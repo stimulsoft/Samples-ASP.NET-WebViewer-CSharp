@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Localizing_WebViewer
+namespace Localizing_the_Viewer
 {
     public partial class Default : System.Web.UI.Page
     {

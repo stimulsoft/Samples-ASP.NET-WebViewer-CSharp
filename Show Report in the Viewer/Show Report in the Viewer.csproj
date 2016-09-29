@@ -6,12 +6,12 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{DE8AE865-FF5D-4710-ABEB-66D5625DF688}</ProjectGuid>
+    <ProjectGuid>{9FEB55C3-D713-49EF-B8B8-DDA74AF6F87C}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>WebViewer_with_Scroll_Bars</RootNamespace>
-    <AssemblyName>WebViewer_with_Scroll_Bars</AssemblyName>
+    <RootNamespace>Show_Report_in_the_Viewer</RootNamespace>
+    <AssemblyName>Show_Report_in_the_Viewer</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <UseIISExpress>true</UseIISExpress>
     <IISExpressSSLPort />
@@ -120,9 +120,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>51702</DevelopmentServerPort>
+          <DevelopmentServerPort>51701</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:51102/</IISUrl>
+          <IISUrl>http://localhost:51101/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>

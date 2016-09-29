@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Show_Report_in_the_WebViewer {
+namespace Localizing_the_Viewer {
     
     
     public partial class Default {
@@ -22,12 +22,21 @@ namespace Show_Report_in_the_WebViewer {
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
         
         /// <summary>
-        /// StiWebViewer1 control.
+        /// DropDownListLang control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::Stimulsoft.Report.Web.StiWebViewer StiWebViewer1;
+        protected global::System.Web.UI.WebControls.DropDownList DropDownListLang;
+        
+        /// <summary>
+        /// ButtonShowReport control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button ButtonShowReport;
     }
 }

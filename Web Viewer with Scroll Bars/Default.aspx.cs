@@ -2,7 +2,7 @@
 using System;
 using System.Data;
 
-namespace Show_Report_in_the_WebViewer
+namespace Web_Viewer_with_Scroll_Bars
 {
     public partial class Default : System.Web.UI.Page
     {

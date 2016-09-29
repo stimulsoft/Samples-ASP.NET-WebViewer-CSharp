@@ -4,9 +4,9 @@
 
 #Overview
 This repository has some examples (Visual Studio Projects) each in different folders:
-* Localizing WebViewer
-* Show Report in the WebViewer
-* WebViewer with Scroll Bars
+* Localizing the Viewer
+* Show Report in the Viewer
+* Web Viewer with Scroll Bars
 
 
 They are all combined in a Visual Studio solution (.sln-file).

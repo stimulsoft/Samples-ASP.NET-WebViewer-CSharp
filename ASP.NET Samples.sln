@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Show Report in the WebViewer", "Show Report in the WebViewer\Show Report in the WebViewer.csproj", "{9FEB55C3-D713-49EF-B8B8-DDA74AF6F87C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Show Report in the Viewer", "Show Report in the Viewer\Show Report in the Viewer.csproj", "{9FEB55C3-D713-49EF-B8B8-DDA74AF6F87C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebViewer with Scroll Bars", "WebViewer with Scroll Bars\WebViewer with Scroll Bars.csproj", "{DE8AE865-FF5D-4710-ABEB-66D5625DF688}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web Viewer with Scroll Bars", "Web Viewer with Scroll Bars\Web Viewer with Scroll Bars.csproj", "{DE8AE865-FF5D-4710-ABEB-66D5625DF688}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Localizing WebViewer", "Localizing WebViewer\Localizing WebViewer.csproj", "{03A02CBB-B970-4765-B5A7-3D7B082D30CE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Localizing the Viewer", "Localizing the Viewer\Localizing the Viewer.csproj", "{03A02CBB-B970-4765-B5A7-3D7B082D30CE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

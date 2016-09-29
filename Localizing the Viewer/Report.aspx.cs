@@ -2,7 +2,7 @@
 using System;
 using System.Data;
 
-namespace Localizing_WebViewer
+namespace Localizing_the_Viewer
 {
     public partial class Report : System.Web.UI.Page
     {

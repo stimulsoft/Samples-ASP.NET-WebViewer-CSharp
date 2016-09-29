@@ -7,10 +7,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebViewer_with_Scroll_Bars {
+namespace Localizing_the_Viewer {
     
     
-    public partial class Default {
+    public partial class Report {
         
         /// <summary>
         /// form1 control.
