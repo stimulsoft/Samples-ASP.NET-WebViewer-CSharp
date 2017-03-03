@@ -22,4 +22,5 @@ You can try the Live Demo [here](http://demo.stimulsoft.com/)
 Read more about Stimulsoft Reports.Net at [www.stimulsoft.com](https://www.stimulsoft.com/en/products/reports-net)
 
 [Free Download](https://www.stimulsoft.com/en/downloads/reports-net)
+
 [NuGet](https://www.nuget.org/packages/Stimulsoft.Reports.Net)
