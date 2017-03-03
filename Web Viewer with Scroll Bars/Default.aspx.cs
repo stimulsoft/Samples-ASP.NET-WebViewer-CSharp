@@ -6,7 +6,7 @@ namespace Web_Viewer_with_Scroll_Bars
 {
     public partial class Default : System.Web.UI.Page
     {
-        public Default()
+        static Default()
         {
             //Stimulsoft.Base.StiLicense.Key = "6vJhGtLLLz2GNviWmUTrhSqnO...";
             //Stimulsoft.Base.StiLicense.LoadFromFile("license.key");

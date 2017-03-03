@@ -6,7 +6,7 @@ namespace Show_Report_in_the_Viewer
 {
     public partial class Default : System.Web.UI.Page
     {
-        public Default()
+        static Default()
         {
             //Stimulsoft.Base.StiLicense.Key = "6vJhGtLLLz2GNviWmUTrhSqnO...";
             //Stimulsoft.Base.StiLicense.LoadFromFile("license.key");
