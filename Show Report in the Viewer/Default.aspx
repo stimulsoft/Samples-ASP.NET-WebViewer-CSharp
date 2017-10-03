@@ -1,5 +1,5 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Show_Report_in_the_Viewer.Default" %>
-<%@ Register assembly="Stimulsoft.Report.WebViewer" namespace="Stimulsoft.Report.Web" tagprefix="cc1" %>
+<%@ Register assembly="Stimulsoft.Report.Web" namespace="Stimulsoft.Report.Web" tagprefix="cc1" %>
 
 <!DOCTYPE html>
 
